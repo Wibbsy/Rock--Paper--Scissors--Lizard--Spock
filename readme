@@ -1,0 +1,4 @@
+This includes a working but unfinished version of Rock Paper Scissors Lizard Spock. (Ever watch the big bang theory?)
+rpslsNet.rb will run the game over a network on port 2000
+use "nc <yourIPaddress> 2000" to connect to it
+Still working on this
